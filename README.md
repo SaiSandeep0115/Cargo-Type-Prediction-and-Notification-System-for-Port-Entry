@@ -20,7 +20,7 @@
 This project focuses on developing a system for predicting cargo types entering ports and notifying relevant authorities. Utilizing a Convolutional Neural Network (CNN) for image classification and NLP techniques for communication, the system aims to enhance operational efficiency and security at port entries.
 
 ### Dataset:
-Deep Learning Dataset: Sourced from Kaggle, this dataset consists of images for training the CNN model to classify various cargo types.
+Kaggle
 
 ### Methodology:
 Data Preprocessing: Images were cleaned and augmented to improve model performance.
@@ -35,4 +35,4 @@ The notification system utilizes NLP to handle messages from vessels. When a ves
 The implemented system significantly enhances the process of cargo type verification, leading to improved operational efficiency and streamlined port entry protocols. The integration of CNN for image classification and NLP for communication ensures a robust solution for modern maritime logistics.
 
 ### Disclaimer: 
-Cargo Type Prediction and Notification System is designed for demonstration purposes and may require further development and testing to ensure reliability and effectiveness in real-world scenarios. The accuracy of cargo type predictions and the efficiency of the notification system depend on various factors, including data quality and system integration. The findings from this project may not accurately reflect real-world scenarios. Further validation and refinement are necessary to ensure reliability and effectiveness in practical applications.
+Cargo Type Prediction and Notification System is designed for demonstration purposes and may require further development and testing to ensure reliability and effectiveness in real-world scenarios. The accuracy of cargo type predictions was 97% and the efficiency of the notification system is good however it depends on various factors, including data quality and system integration. The findings from this project may not accurately reflect real-world scenarios. Further validation and refinement are necessary to ensure reliability and effectiveness in practical applications.
