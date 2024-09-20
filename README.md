@@ -12,6 +12,7 @@
 
 ## Technologies:
 - **Deep Learning**
+- **Computer Vision**
 - **Natural Language Processing (NLP))**
 - **Large Language Models (LLMs)**
 - **Data Analysis**
