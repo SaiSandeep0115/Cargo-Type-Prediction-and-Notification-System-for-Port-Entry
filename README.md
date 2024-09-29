@@ -18,7 +18,7 @@
 - **Data Analysis**
 
 ### Abstract: 
-This project focuses on developing a system for predicting cargo types entering ports and notifying relevant authorities. Utilizing a Convolutional Neural Network (CNN) for image classification and NLP techniques for communication, the system aims to enhance operational efficiency and security at port entries.
+This project focuses on developing a system for predicting cargo types entering ports, communicating with managers and notifying relevant authorities. Utilizing a Convolutional Neural Network (CNN) for image classification and NLP techniques for communication, the system aims to enhance operational efficiency and security at port entries.
 
 ### Dataset:
 Kaggle
